@@ -3,8 +3,10 @@
 Update feed and downloads for [LineThru](https://linethru.app) — a hardware-style
 audio monitor and per-app router for macOS.
 
-- **Download:** grab the latest `LineThru-x.y.z.zip` from
-  [Releases](https://github.com/sebastienb/linethru-releases/releases).
+- **Download:** grab the latest `LineThru-x.y.z.dmg` from
+  [Releases](https://github.com/sebastienb/linethru-releases/releases), open
+  it, and drag LineThru to Applications. (The `.zip` is the in-app update
+  payload — prefer the DMG for manual installs.)
 - **Buy a license:** <https://linethru.app>
 - **Changelog:** [CHANGELOG.md](CHANGELOG.md)
 
