@@ -1,5 +1,12 @@
 # LineThru Changelog
 
+## 1.0.3 — 2026-07-08
+
+Maintenance release.
+
+- Verifies the in-app update flow end to end.
+
+
 ## 1.0.2 — 2026-07-08
 
 Maintenance release.

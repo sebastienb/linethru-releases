@@ -6,6 +6,19 @@
         <description>LineThru updates</description>
         <language>en</language>
         <item>
+            <title>LineThru 1.0.3</title>
+            <link>https://linethru.app</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 08 Jul 2026 11:12:39 +0000</pubDate>
+            <description><![CDATA[<pre>Maintenance release.
+
+- Verifies the in-app update flow end to end.
+</pre><p><a href="https://linethru.app">Buy a license at linethru.app</a></p>]]></description>
+            <enclosure url="https://github.com/sebastienb/linethru-releases/releases/download/v1.0.3/LineThru-1.0.3.zip" sparkle:edSignature="wTCrvJ/VrcDck9SKYD4MCsf2IHRFu9oyUP49aOkk2DIcuxeGnUC/ZsYjQAmbd1AzcCOwmtdIp3xlUagM3c89Aw==" length="1979347" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>LineThru 1.0.2</title>
             <link>https://linethru.app</link>
             <sparkle:version>4</sparkle:version>
