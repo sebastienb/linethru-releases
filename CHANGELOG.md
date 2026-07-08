@@ -1,5 +1,12 @@
 # LineThru Changelog
 
+## 1.0.2 — 2026-07-08
+
+Maintenance release.
+
+- Fixes in-app updates failing with "An error occurred while running the updater."
+
+
 ## 1.0.1 — 2026-07-08
 
 Maintenance release.
