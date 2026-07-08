@@ -1,5 +1,13 @@
 # LineThru Changelog
 
+## 1.0.1 — 2026-07-08
+
+Maintenance release.
+
+- Downloads now ship as a disk image (DMG) for smoother installs.
+- Under-the-hood improvements to the in-app updater and release process.
+
+
 ## 1.0.0 — 2026-07-08
 
 Initial release.
