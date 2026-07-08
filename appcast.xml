@@ -5,5 +5,21 @@
         <link>https://linethru.app</link>
         <description>LineThru updates</description>
         <language>en</language>
+        <item>
+            <title>LineThru 1.0.0</title>
+            <link>https://linethru.app</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 08 Jul 2026 03:10:26 +0000</pubDate>
+            <description><![CDATA[<pre>Initial release.
+
+- Monitor any hardware input (line-in, interface) with level, balance, and mute controls and live meters.
+- Route a single Mac app&#x27;s audio to the output of your choice — everything else keeps playing normally.
+- Hardware-style interface in the main window and the menu bar.
+- Try before you buy: unlicensed, monitoring runs for 60 seconds at a time.
+</pre><p><a href="https://linethru.app">Buy a license at linethru.app</a></p>]]></description>
+            <enclosure url="https://github.com/sebastienb/linethru-releases/releases/download/v1.0.0/LineThru-1.0.0.zip" sparkle:edSignature="i1ihl7Kftb10d8gQg3fdUZ6b89XrVUBFbwHa0RMbk2EgdhOpI8kmAt+WEaWOgfKz/Rte3See1d47tIl1TLHgDQ==" length="1979187" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
