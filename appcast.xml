@@ -6,6 +6,20 @@
         <description>LineThru updates</description>
         <language>en</language>
         <item>
+            <title>LineThru 1.0.4</title>
+            <link>https://linethru.app</link>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <pubDate>Thu, 09 Jul 2026 14:36:33 +0000</pubDate>
+            <description><![CDATA[<pre>## LineThru 1.0.4
+
+- License management moved to a dedicated About window. Once your Mac is activated, the main window stays focused on monitoring — no more License section taking up space.
+- The new About window (LineThru → About LineThru) shows your license status and the Deactivate button, plus the app version and links to linethru.app and support.
+</pre><p><a href="https://linethru.app">Buy a license at linethru.app</a></p>]]></description>
+            <enclosure url="https://github.com/sebastienb/linethru-releases/releases/download/v1.0.4/LineThru-1.0.4.zip" sparkle:edSignature="TAU6c3KPkh84CpJ4yAgQP/B3tf5QWTVUWrbk52+ucGAJTXxCwR6o5rMyu26t5o3boulgXFfOh5Lyc3EcMURSCw==" length="1990746" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>LineThru 1.0.3</title>
             <link>https://linethru.app</link>
             <sparkle:version>5</sparkle:version>

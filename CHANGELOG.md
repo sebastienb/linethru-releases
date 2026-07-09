@@ -1,5 +1,13 @@
 # LineThru Changelog
 
+## 1.0.4 — 2026-07-09
+
+## LineThru 1.0.4
+
+- License management moved to a dedicated About window. Once your Mac is activated, the main window stays focused on monitoring — no more License section taking up space.
+- The new About window (LineThru → About LineThru) shows your license status and the Deactivate button, plus the app version and links to linethru.app and support.
+
+
 ## 1.0.3 — 2026-07-08
 
 Maintenance release.
