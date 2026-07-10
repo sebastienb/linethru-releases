@@ -1,5 +1,13 @@
 # LineThru Changelog
 
+## 1.0.5 — 2026-07-10
+
+## LineThru 1.0.5
+
+- Added physical input latency settings with Low Latency, Balanced, and Higher Stability modes.
+- Latency preferences are saved automatically and applied when monitoring microphones, instruments, audio interfaces, and other input devices.
+
+
 ## 1.0.4 — 2026-07-09
 
 ## LineThru 1.0.4

@@ -6,6 +6,20 @@
         <description>LineThru updates</description>
         <language>en</language>
         <item>
+            <title>LineThru 1.0.5</title>
+            <link>https://linethru.app</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <pubDate>Fri, 10 Jul 2026 13:23:42 +0000</pubDate>
+            <description><![CDATA[<pre>## LineThru 1.0.5
+
+- Added physical input latency settings with Low Latency, Balanced, and Higher Stability modes.
+- Latency preferences are saved automatically and applied when monitoring microphones, instruments, audio interfaces, and other input devices.
+</pre><p><a href="https://linethru.app">Buy a license at linethru.app</a></p>]]></description>
+            <enclosure url="https://github.com/sebastienb/linethru-releases/releases/download/v1.0.5/LineThru-1.0.5.zip" sparkle:edSignature="Iqi9hwzwz41pBfVywIOM+KI3Bpe8EzTQ/YYKRbeOaUlDP7L6f3CxQspXdHJyUzjhbMj1x4vWa/kfufVd33j0Dg==" length="2016004" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>LineThru 1.0.4</title>
             <link>https://linethru.app</link>
             <sparkle:version>6</sparkle:version>
