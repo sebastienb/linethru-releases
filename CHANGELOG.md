@@ -1,13 +1,5 @@
 # LineThru Changelog
 
-## 1.0.5 — 2026-07-10
-
-## LineThru 1.0.5
-
-- Adds a dedicated dark Settings window for choosing physical-input latency.
-- Adds Low Latency, Balanced, and Higher Stability modes with clear buffer and reliability guidance.
-- Keeps application-audio routing on its existing independent process-tap engine.
-
 ## 1.0.4 — 2026-07-09
 
 ## LineThru 1.0.4
