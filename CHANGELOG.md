@@ -1,5 +1,14 @@
 # LineThru Changelog
 
+## 1.1.0 — 2026-07-10
+
+## LineThru 1.1.0
+
+- All-new low-latency audio engine for hardware monitoring. Input and output now run in a single realtime audio cycle on a drift-compensated device pair — no more crackling, in any latency mode.
+- Latency modes got dramatically faster: Low Latency now runs 2.7 ms buffers (previously ~5.3 ms buffers over a much slower transport), Balanced 5.3 ms, Higher Stability 10.7 ms. Playing an instrument through Low mode now feels immediate.
+- Fixes intermittent crackling/dropouts when monitoring hardware inputs, especially with input and output on different USB devices.
+
+
 ## 1.0.5 — 2026-07-10
 
 ## LineThru 1.0.5

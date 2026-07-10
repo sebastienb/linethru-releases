@@ -6,6 +6,21 @@
         <description>LineThru updates</description>
         <language>en</language>
         <item>
+            <title>LineThru 1.1.0</title>
+            <link>https://linethru.app</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <pubDate>Fri, 10 Jul 2026 14:59:40 +0000</pubDate>
+            <description><![CDATA[<pre>## LineThru 1.1.0
+
+- All-new low-latency audio engine for hardware monitoring. Input and output now run in a single realtime audio cycle on a drift-compensated device pair — no more crackling, in any latency mode.
+- Latency modes got dramatically faster: Low Latency now runs 2.7 ms buffers (previously ~5.3 ms buffers over a much slower transport), Balanced 5.3 ms, Higher Stability 10.7 ms. Playing an instrument through Low mode now feels immediate.
+- Fixes intermittent crackling/dropouts when monitoring hardware inputs, especially with input and output on different USB devices.
+</pre><p><a href="https://linethru.app">Buy a license at linethru.app</a></p>]]></description>
+            <enclosure url="https://github.com/sebastienb/linethru-releases/releases/download/v1.1.0/LineThru-1.1.0.zip" sparkle:edSignature="xA62q7P2jzbGeyv80vHSTaK12ONqIv0BIuJPT3DG+kh8VJmrOXIV/woIki4rSJd8B5vMb7m+anSewP5lwqotDg==" length="2024956" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>LineThru 1.0.5</title>
             <link>https://linethru.app</link>
             <sparkle:version>7</sparkle:version>
