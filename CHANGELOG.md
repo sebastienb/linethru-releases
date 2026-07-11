@@ -1,5 +1,13 @@
 # LineThru Changelog
 
+## 1.1.1 — 2026-07-11
+
+## LineThru 1.1.1
+
+- Fixed: no sound at the output when monitoring a USB device with its own outputs (bidirectional interfaces such as the TE EP-40). Levels moved but audio was routed back out the input device instead of the selected output.
+- The monitor now maps aggregate-device buffers to the devices you actually selected, on both the input and output side.
+
+
 ## 1.1.0 — 2026-07-10
 
 ## LineThru 1.1.0

@@ -6,6 +6,20 @@
         <description>LineThru updates</description>
         <language>en</language>
         <item>
+            <title>LineThru 1.1.1</title>
+            <link>https://linethru.app</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <pubDate>Sat, 11 Jul 2026 00:00:17 +0000</pubDate>
+            <description><![CDATA[<pre>## LineThru 1.1.1
+
+- Fixed: no sound at the output when monitoring a USB device with its own outputs (bidirectional interfaces such as the TE EP-40). Levels moved but audio was routed back out the input device instead of the selected output.
+- The monitor now maps aggregate-device buffers to the devices you actually selected, on both the input and output side.
+</pre><p><a href="https://linethru.app">Buy a license at linethru.app</a></p>]]></description>
+            <enclosure url="https://github.com/sebastienb/linethru-releases/releases/download/v1.1.1/LineThru-1.1.1.zip" sparkle:edSignature="toYzILVFTd7oFvVR3HvOU2QER2TLiHTKRkArSmrpmYxGrSpwG4tAlcJpfo+ZyTAssV6qojA43ctLJZuNYhDFCQ==" length="2030980" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>LineThru 1.1.0</title>
             <link>https://linethru.app</link>
             <sparkle:version>8</sparkle:version>
