@@ -1,5 +1,12 @@
 # LineThru Changelog
 
+## 1.1.2 — 2026-07-13
+
+## LineThru 1.1.2
+
+- Stop monitoring cleanly when the selected USB input is disconnected, keeping the monitoring state and controls in sync.
+
+
 ## 1.1.1 — 2026-07-11
 
 ## LineThru 1.1.1

@@ -6,6 +6,19 @@
         <description>LineThru updates</description>
         <language>en</language>
         <item>
+            <title>LineThru 1.1.2</title>
+            <link>https://linethru.app</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 13 Jul 2026 02:54:13 +0000</pubDate>
+            <description><![CDATA[<pre>## LineThru 1.1.2
+
+- Stop monitoring cleanly when the selected USB input is disconnected, keeping the monitoring state and controls in sync.
+</pre><p><a href="https://linethru.app">Buy a license at linethru.app</a></p>]]></description>
+            <enclosure url="https://github.com/sebastienb/linethru-releases/releases/download/v1.1.2/LineThru-1.1.2.zip" sparkle:edSignature="3Q1tCLWhbZ4FyIcEmPp4tZsPNiueI1ZQ8NgwfFfRV6kxo4KmRbyCaWZBlXOXUbJwIg/T9Tint9xoOsbORkkfDA==" length="2032560" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>LineThru 1.1.1</title>
             <link>https://linethru.app</link>
             <sparkle:version>9</sparkle:version>
